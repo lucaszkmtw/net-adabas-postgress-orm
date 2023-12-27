@@ -1,0 +1,964 @@
+{
+    "afiliado": [
+        "nu_cuil"
+    ],
+    "afiliadofamiliar": [
+        "nu_cuil_afiliado",
+        "nu_cuil_familiar"
+    ],
+    "agente": [
+        "cd_empleador",
+        "cd_agente",
+        "nu_anio"
+    ],
+    "apoderado": [
+        "cd_empleador",
+        "nu_propietario"
+    ],
+    "apremio": [
+        "cd_empleador"
+    ],
+    "apremio_carta": [
+        "id_carta"
+    ],
+    "apremio_mov": [
+        "id_movimiento"
+    ],
+    "apremio_new": [
+        "id_apremio"
+    ],
+    "archivos_gdeba": [
+        "id_archivo"
+    ],
+    "asignaciondoc": [
+        "cd_empleador",
+        "nu_doc"
+    ],
+    "ax_agente": [
+        "id"
+    ],
+    "ax_agrup_d20": [
+        "id"
+    ],
+    "ax_agrupamiento": [
+        "id"
+    ],
+    "ax_aporte_pers_pat": [
+        "id_aporte"
+    ],
+    "ax_aportes": [
+        "tp_aporte"
+    ],
+    "ax_autoriz_query": [
+        "cd_usuario_autoriz"
+    ],
+    "ax_camara": [
+        "cd_camara"
+    ],
+    "ax_cargo": [
+        "id"
+    ],
+    "ax_cargos_10430": [
+        "cd_cargo"
+    ],
+    "ax_carp_subv": [
+        "id"
+    ],
+    "ax_carpeta_archivo": [
+        "id_carpeta_archivo"
+    ],
+    "ax_categoria": [
+        "cd_empleador",
+        "ds_categoria"
+    ],
+    "ax_cd_barra_error": [
+        "id"
+    ],
+    "ax_cd_concepto": [
+        "id"
+    ],
+    "ax_clasif": [
+        "id"
+    ],
+    "ax_codigo_rechazo": [
+        "id"
+    ],
+    "ax_comprobante": [
+        "cd_comprobante"
+    ],
+    "ax_cond_cargo": [
+        "id"
+    ],
+    "ax_cont_cd": [
+        "id"
+    ],
+    "ax_cuatri_actual": [
+        "id_cuatri"
+    ],
+    "ax_dato_modificado": [
+        "id"
+    ],
+    "ax_diskette": [
+        "id"
+    ],
+    "ax_distrito_esc": [
+        "cd_distrito"
+    ],
+    "ax_dj_cuat": [
+        "id"
+    ],
+    "ax_documentacion": [
+        "id"
+    ],
+    "ax_enc_previs": [
+        "id"
+    ],
+    "ax_entidad": [
+        "id"
+    ],
+    "ax_error_carga": [
+        "id_error"
+    ],
+    "ax_est_arch_gdeba": [
+        "cd_estado"
+    ],
+    "ax_est_tramite_hst": [
+        "id_cambio"
+    ],
+    "ax_estado_adhesion": [
+        "id"
+    ],
+    "ax_estado_ap": [
+        "id"
+    ],
+    "ax_estado_carta": [
+        "id"
+    ],
+    "ax_estado_certif": [
+        "cd_estado"
+    ],
+    "ax_estado_civil": [
+        "id"
+    ],
+    "ax_estado_colegio": [
+        "id"
+    ],
+    "ax_estado_cump": [
+        "id"
+    ],
+    "ax_estado_cump_c": [
+        "id"
+    ],
+    "ax_estado_cump_obl": [
+        "id"
+    ],
+    "ax_estado_cuota": [
+        "id"
+    ],
+    "ax_estado_d20": [
+        "id"
+    ],
+    "ax_estado_dep": [
+        "id"
+    ],
+    "ax_estado_deuda": [
+        "id"
+    ],
+    "ax_estado_dj": [
+        "id"
+    ],
+    "ax_estado_dj_cuatr": [
+        "id"
+    ],
+    "ax_estado_documen": [
+        "id"
+    ],
+    "ax_estado_envio": [
+        "id"
+    ],
+    "ax_estado_gdeba": [
+        "cd_estado"
+    ],
+    "ax_estado_imp": [
+        "id"
+    ],
+    "ax_estado_meses": [
+        "id"
+    ],
+    "ax_estado_normativ": [
+        "cd_estado"
+    ],
+    "ax_estado_oblig": [
+        "id"
+    ],
+    "ax_estado_plan": [
+        "id"
+    ],
+    "ax_estado_tramite": [
+        "cd_estado"
+    ],
+    "ax_estado_web": [
+        "cd_estado"
+    ],
+    "ax_estudios": [
+        "id"
+    ],
+    "ax_foja": [
+        "id"
+    ],
+    "ax_forma_pago": [
+        "id"
+    ],
+    "ax_ld_rdo": [
+        "id"
+    ],
+    "ax_ld_tramite": [
+        "id"
+    ],
+    "ax_mes": [
+        "cd_mes"
+    ],
+    "ax_mes_cuat": [
+        "id"
+    ],
+    "ax_mod_revista": [
+        "id"
+    ],
+    "ax_modo_ocupa": [
+        "id"
+    ],
+    "ax_modo_pago": [
+        "cd_modo_pago"
+    ],
+    "ax_mot_correo": [
+        "id"
+    ],
+    "ax_motivo_alta": [
+        "id"
+    ],
+    "ax_motivo_ap": [
+        "id"
+    ],
+    "ax_motivo_baja": [
+        "id"
+    ],
+    "ax_motivo_disc": [
+        "cd_motivo"
+    ],
+    "ax_motivo_imp": [
+        "id"
+    ],
+    "ax_motivo_int": [
+        "id"
+    ],
+    "ax_multa": [
+        "id_multa"
+    ],
+    "ax_multa_subv": [
+        "id"
+    ],
+    "ax_nacionalidad": [
+        "id"
+    ],
+    "ax_nivel_ensenanza": [
+        "cd_nivel"
+    ],
+    "ax_observacion": [
+        "id"
+    ],
+    "ax_operacion": [
+        "cd_operacion"
+    ],
+    "ax_organismos": [
+        "id"
+    ],
+    "ax_pago_banco": [
+        "cd_pago_banco"
+    ],
+    "ax_pago_cargo": [
+        "id_pago"
+    ],
+    "ax_pases": [
+        "id"
+    ],
+    "ax_plan": [
+        "cd_plan"
+    ],
+    "ax_porcent_aporte": [
+        "id_porc_aporte"
+    ],
+    "ax_propiedad": [
+        "cd_propiedad"
+    ],
+    "ax_resul_inspec": [
+        "id"
+    ],
+    "ax_sit_adhesion": [
+        "id"
+    ],
+    "ax_situacion": [
+        "id"
+    ],
+    "ax_tipo_acto": [
+        "id"
+    ],
+    "ax_tipo_calculo": [
+        "tp_calculo"
+    ],
+    "ax_tipo_cargo": [
+        "tp_mejor_cargo"
+    ],
+    "ax_tipo_certifica": [
+        "tp_certificacion"
+    ],
+    "ax_tipo_cierre": [
+        "id"
+    ],
+    "ax_tipo_concepto": [
+        "tp_concepto"
+    ],
+    "ax_tipo_dec_jur": [
+        "id"
+    ],
+    "ax_tipo_dipregep": [
+        "id"
+    ],
+    "ax_tipo_dj": [
+        "tp_dj"
+    ],
+    "ax_tipo_doc": [
+        "id"
+    ],
+    "ax_tipo_imp": [
+        "tp_imputacion"
+    ],
+    "ax_tipo_licencia": [
+        "tp_licencia"
+    ],
+    "ax_tipo_liq": [
+        "id"
+    ],
+    "ax_tipo_normativa": [
+        "tp_normativa"
+    ],
+    "ax_tipo_notif": [
+        "tp_notificacion"
+    ],
+    "ax_tipo_personal": [
+        "id"
+    ],
+    "ax_tipo_planta": [
+        "id"
+    ],
+    "ax_tipo_rechazo": [
+        "id"
+    ],
+    "ax_tipo_reco": [
+        "id"
+    ],
+    "ax_tipo_sexo": [
+        "id"
+    ],
+    "ax_tipodocfirmado": [
+        "id"
+    ],
+    "ax_vrsd": [
+        "id_vrsd"
+    ],
+    "balance": [
+        "cd_empleador",
+        "nu_mes_balance",
+        "nu_anio_balance"
+    ],
+    "bonificacion": [
+        "id_bonificacion"
+    ],
+    "buencumpli": [
+        "cd_empleador"
+    ],
+    "camara": [
+        "cd_empleador",
+        "cd_camara",
+        "dt_desde"
+    ],
+    "cargadiaria": [
+        "id_carga_diaria"
+    ],
+    "cargadiariadetalle": [
+        "id_carga_diaria",
+        "cd_comprobante",
+        "id_pago"
+    ],
+    "cargaerror": [
+        "id_carga_error"
+    ],
+    "cargamesdetalle": [
+        "id_carga",
+        "nu_cuil",
+        "id_cargo"
+    ],
+    "cargamesempleador": [
+        "id_carga"
+    ],
+    "cargo": [
+        "id_cargomc"
+    ],
+    "cargo20170506": [
+        "id_cargo"
+    ],
+    "cargoep": [
+        "id_cargo"
+    ],
+    "cargofuncional": [
+        "id_cargo_revista",
+        "id_cargo_funcional"
+    ],
+    "cargopropiedad": [
+        "id_cargomc",
+        "id_propiedad"
+    ],
+    "cargosfirmadig": [
+        "id_cargosfirmadig"
+    ],
+    "carta": [
+        "id_carta"
+    ],
+    "cartas_new": [
+        "ds_cd",
+        "cd_empleador"
+    ],
+    "casillerobanco": [
+        "id_casillero"
+    ],
+    "casillerodj": [
+        "id_casillero"
+    ],
+    "casilleroplan": [
+        "id_casillero"
+    ],
+    "ceop": [
+        "id_ceop"
+    ],
+    "certificacion": [
+        "id_certificacion"
+    ],
+    "certificacionprof": [
+        "id_certificacion",
+        "id_proforma"
+    ],
+    "cierre": [
+        "cd_empleador",
+        "tp_cierre"
+    ],
+    "codigocargo": [
+        "cd_cargo"
+    ],
+    "colegio_plan": [
+        "id_colegio_plan"
+    ],
+    "colegioinvalido": [
+        "id_colegio"
+    ],
+    "colegioplan": [
+        "cd_empleador",
+        "id_plan"
+    ],
+    "comprobantecuatri": [
+        "id_dj"
+    ],
+    "comprobantedj": [
+        "id_dj"
+    ],
+    "comprobanteplan": [
+        "id_cuota_plan"
+    ],
+    "comprobantetasa": [
+        "id_pago_tasa"
+    ],
+    "concepto": [
+        "id_concepto"
+    ],
+    "concepto2016": [
+        "id_concepto"
+    ],
+    "concepto2017": [
+        "id_concepto"
+    ],
+    "concepto2018": [
+        "id_concepto"
+    ],
+    "concepto2019": [
+        "id_concepto"
+    ],
+    "concepto2020": [
+        "id_concepto"
+    ],
+    "concepto2021": [
+        "id_concepto"
+    ],
+    "conceptoempleador": [
+        "id_conceptoemplea"
+    ],
+    "conceptoep": [
+        "id_concepto"
+    ],
+    "cuiles_erroneos": [
+        "cuil_correcto",
+        "cuil_archivo",
+        "cd_empleador"
+    ],
+    "cump_cua_historico": [
+        "cd_empleador",
+        "nu_mes",
+        "nu_anio"
+    ],
+    "cumplimiento": [
+        "cd_empleador",
+        "dt_mes"
+    ],
+    "cumplimientocuatri": [
+        "cd_empleador",
+        "dt_anio",
+        "nu_cuatrimestre"
+    ],
+    "cumplimientooblig": [
+        "cd_empleador",
+        "dt_anio",
+        "nu_cuatrimestre"
+    ],
+    "cuota": [
+        "id_colegio_plan",
+        "nu_mes",
+        "nu_anio"
+    ],
+    "cuota_escalonada": [
+        "id_cuota_escalon"
+    ],
+    "cuotaespecial": [
+        "id_plan_especial",
+        "dt_mes"
+    ],
+    "cuotas_opcion": [
+        "id_cuota_opcion"
+    ],
+    "customer": [
+        "cno"
+    ],
+    "datos_saneamiento": [
+        "nu_secuencia"
+    ],
+    "datosbanco": [
+        "id_banco"
+    ],
+    "datoscheque": [
+        "id_cheque"
+    ],
+    "datosefectivo": [
+        "id_banco"
+    ],
+    "datospagodirecto": [
+        "id_pago_directo"
+    ],
+    "ddjjcuatrimestral": [
+        "id_ddjjcuatri"
+    ],
+    "descuento": [
+        "id_descuento"
+    ],
+    "detallesalarial": [
+        "id_detalle"
+    ],
+    "deuda_planes": [
+        "id"
+    ],
+    "dipregep": [
+        "id_carga"
+    ],
+    "dipregep20": [
+        "id_dj"
+    ],
+    "dipregep20detalle": [
+        "id_detalle"
+    ],
+    "dipregep20hst": [
+        "id_cambio"
+    ],
+    "djhistorica": [
+        "id_dj_his"
+    ],
+    "doc_cuatri": [
+        "cd_empleador",
+        "nu_mes",
+        "nu_anio"
+    ],
+    "doc_pago_mes": [
+        "cd_empleador",
+        "nu_mes",
+        "nu_anio"
+    ],
+    "doc_pyrl_hist": [
+        "cd_empleador"
+    ],
+    "documentacion": [
+        "id_documentacion"
+    ],
+    "domicilio": [
+        "nu_domicilio"
+    ],
+    "domicilio_web": [
+        "id_cambio"
+    ],
+    "domiciliocons": [
+        "nu_domicilio"
+    ],
+    "emp_imputacion": [
+        "id_emp_imp"
+    ],
+    "empleador": [
+        "cd_empleador"
+    ],
+    "empleador_banco": [
+        "id_datos_banco"
+    ],
+    "empleador_estado": [
+        "cd_empleador"
+    ],
+    "empleador_web": [
+        "id_cambio"
+    ],
+    "empleadorafiliado": [
+        "nu_cuil",
+        "cd_empleador",
+        "dt_ingreso"
+    ],
+    "empleadorep": [
+        "cd_empleador"
+    ],
+    "empleadorep_web": [
+        "id_cambio"
+    ],
+    "empleadorley": [
+        "cd_empleador",
+        "nu_ley"
+    ],
+    "empleadorperiodo": [
+        "cd_empleador",
+        "dt_desde"
+    ],
+    "envio": [
+        "nu_envio"
+    ],
+    "est_dj_mensual": [
+        "dt_mes_liq",
+        "cd_empleador",
+        "tp_ddjj",
+        "nu_liquidacion",
+        "cd_planta",
+        "cd_encuadre_previs",
+        "tp_liquidacion"
+    ],
+    "est_res_dj_detalle": [
+        "dt_mes_liq",
+        "cd_empleador",
+        "tp_ddjj",
+        "nu_liquidacion",
+        "tp_concepto",
+        "cd_concepto",
+        "cd_concepto_emplea",
+        "tp_liquidacion",
+        "nu_doc"
+    ],
+    "est_res_dj_mensual": [
+        "dt_mes_liq",
+        "cd_empleador",
+        "tp_ddjj",
+        "nu_liquidacion",
+        "tp_concepto",
+        "cd_concepto",
+        "cd_concepto_emplea",
+        "tp_liquidacion"
+    ],
+    "est_tot_dj_mensual": [
+        "dt_mes_liq",
+        "cd_empleador",
+        "tp_ddjj",
+        "nu_liquidacion",
+        "cd_encuadre_previs",
+        "tp_liquidacion"
+    ],
+    "est_tot_res_dj": [
+        "dt_mes_liq",
+        "cd_empleador",
+        "tp_ddjj",
+        "nu_liquidacion",
+        "tp_concepto",
+        "tp_liquidacion"
+    ],
+    "estado_plan": [
+        "id_colegio_plan",
+        "nu_mes",
+        "nu_anio"
+    ],
+    "expte_a_escanear": [
+        "nu_expediente"
+    ],
+    "familiar": [
+        "nu_cuil"
+    ],
+    "fecha_no_lab": [
+        "dt_fecha"
+    ],
+    "foja": [
+        "id_cargo"
+    ],
+    "fojacertificacion": [
+        "id_fojacerti"
+    ],
+    "funcion": [
+        "cd_funcion"
+    ],
+    "grupoempleador": [
+        "cd_grupo"
+    ],
+    "imputacion": [
+        "id_imputacion"
+    ],
+    "indice": [
+        "id_indice"
+    ],
+    "inicio_apor_doc": [
+        "cd_empleador"
+    ],
+    "intimar": [
+        "cd_empleador",
+        "dt_intimacion"
+    ],
+    "ley": [
+        "nu_ley"
+    ],
+    "libre_deuda": [
+        "cd_empleador",
+        "dt_fecha",
+        "cd_tramite"
+    ],
+    "licencia": [
+        "id_licencia"
+    ],
+    "licenciacargo": [
+        "id_licencia"
+    ],
+    "lineaerrdetalle": [
+        "id_linea_error"
+    ],
+    "lineaerronea": [
+        "id_linea_erronea"
+    ],
+    "liquidacion": [
+        "id_cargo",
+        "nu_liquidacion",
+        "tp_ddjj",
+        "dt_desde_liq"
+    ],
+    "liquidacion2016": [
+        "id_cargo",
+        "nu_liquidacion",
+        "tp_ddjj",
+        "dt_desde_liq"
+    ],
+    "liquidacion2017": [
+        "id_cargo",
+        "nu_liquidacion",
+        "tp_ddjj",
+        "dt_desde_liq"
+    ],
+    "liquidacion2018": [
+        "id_cargo",
+        "nu_liquidacion",
+        "tp_ddjj",
+        "dt_desde_liq"
+    ],
+    "liquidacion2019": [
+        "id_cargo",
+        "nu_liquidacion",
+        "tp_ddjj",
+        "dt_desde_liq"
+    ],
+    "liquidacion2020": [
+        "id_cargo",
+        "nu_liquidacion",
+        "tp_ddjj",
+        "dt_desde_liq"
+    ],
+    "liquidacion2021": [
+        "id_cargo",
+        "nu_liquidacion",
+        "tp_ddjj",
+        "dt_desde_liq"
+    ],
+    "mn_dec_jurada": [
+        "dt_mes_liq",
+        "cd_empleador",
+        "tp_ddjj",
+        "nu_liquidacion"
+    ],
+    "moratoria_variable": [
+        "id_colegio_plan",
+        "nu_cuota_desde"
+    ],
+    "normativa": [
+        "id_normativa"
+    ],
+    "numeros": [
+        "tabla"
+    ],
+    "numeroscategoria": [
+        "cd_empleador"
+    ],
+    "numerosdocumento": [
+        "cd_empleador",
+        "nu_doc"
+    ],
+    "numerosliquidacion": [
+        "cd_empleador",
+        "dt_mes_liq",
+        "tp_ddjj",
+        "tp_liquidacion"
+    ],
+    "obligacionnormal": [
+        "cd_empleador",
+        "dt_mes"
+    ],
+    "origen_imputacion": [
+        "id_origen_imp"
+    ],
+    "pago": [
+        "id_pago"
+    ],
+    "pagocuota": [
+        "id_pago_cuota"
+    ],
+    "pagodj": [
+        "id_pago_dj"
+    ],
+    "pagohistorico": [
+        "id_pago_his"
+    ],
+    "pagos": [
+        "id_pago"
+    ],
+    "perfil": [
+        "cd_perfil"
+    ],
+    "perfilfuncion": [
+        "cd_perfil",
+        "cd_funcion"
+    ],
+    "periodo": [
+        "id_periodo"
+    ],
+    "periodocargo": [
+        "id_periodo"
+    ],
+    "plan": [
+        "id_plan"
+    ],
+    "plan_reprogramado": [
+        "id_colegio_plan_re",
+        "id_colegio_plan"
+    ],
+    "planespecial": [
+        "id_plan_especial"
+    ],
+    "proforma": [
+        "id_proforma"
+    ],
+    "promedioshst": [
+        "id_colegio_plan",
+        "dt_desde"
+    ],
+    "propietario": [
+        "cd_empleador",
+        "nu_propietario"
+    ],
+    "propietario_reg": [
+        "cd_empleador",
+        "nu_propietario"
+    ],
+    "propietario_web": [
+        "id_cambio"
+    ],
+    "propietarioreg_web": [
+        "id_cambio"
+    ],
+    "public_internet": [
+        "cd_empleador",
+        "dt_publica"
+    ],
+    "registracion": [
+        "id_usuario"
+    ],
+    "registracionep": [
+        "id_usuario_ep"
+    ],
+    "remconaporte": [
+        "id_remuneracion"
+    ],
+    "rep_legal": [
+        "cd_empleador",
+        "nu_rep_legal"
+    ],
+    "rep_legal_web": [
+        "id_cambio"
+    ],
+    "seprit": [
+        "cd_empleador"
+    ],
+    "servicio": [
+        "id_servicio"
+    ],
+    "sqd$tpages": [
+        "tabname"
+    ],
+    "sqd$udat": [
+        "ukind"
+    ],
+    "sysdiaxvd": [
+        "comp",
+        "application",
+        "module",
+        "variable"
+    ],
+    "tasa_anual": [
+        "nu_anio",
+        "nu_mes"
+    ],
+    "tramitefamiliar": [
+        "id_tramite",
+        "nu_cuil_familiar"
+    ],
+    "tramiteprevis": [
+        "id_tramite"
+    ],
+    "tramiteprocesogedo": [
+        "id_tramite"
+    ],
+    "usuario": [
+        "cd_usuario"
+    ],
+    "usuarioempleador": [
+        "cd_usuario",
+        "cd_empleador"
+    ],
+    "usuariogrupo": [
+        "cd_usuario",
+        "cd_grupo"
+    ],
+    "validacionfirma": [
+        "id_tipo_doc"
+    ],
+    "vencoblignormal": [
+        "cd_mes",
+        "nu_anio",
+        "dt_vto"
+    ]
+}

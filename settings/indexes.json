@@ -1,0 +1,258 @@
+{
+    "afiliado": [
+        "ds_apellido_nombre",
+        "nu_doc"
+    ],
+    "apremio_carta": [
+        "id_apremio"
+    ],
+    "apremio_mov": [
+        "id_apremio"
+    ],
+    "archivos_gdeba": [
+        "id_tramite"
+    ],
+    "asignaciondoc": [
+        "cd_empleador",
+        "dt_mes_liq"
+    ],
+    "ax_cuatri_actual": [
+        "cd_mes",
+        "nu_anio"
+    ],
+    "ax_multa": [
+        "nu_cargos_min",
+        "tp_multa",
+        "nu_periodo"
+    ],
+    "cargamesdetalle": [
+        "nu_cuil",
+        "id_carga",
+        "id_cargo"
+    ],
+    "cargamesempleador": [
+        "cd_empleador",
+        "dt_mes_liq",
+        "cd_empleador",
+        "tp_ddjj",
+        "nu_liquidacion",
+        "tp_liquidacion",
+        "dt_carga"
+    ],
+    "cargo": [
+        "id_cargo"
+    ],
+    "cargo20170506": [
+        "cd_cargo",
+        "cd_encuadre_previs",
+        "cd_modo_ocupa",
+        "cd_planta",
+        "cd_cargo",
+        "cd_planta",
+        "cd_modo_ocupa",
+        "cd_forma_pago",
+        "dt_posesion",
+        "cd_encuadre_previs",
+        "cd_planta",
+        "cd_modo_ocupa",
+        "cd_encuadre_previs"
+    ],
+    "cargofuncional": [
+        "id_cargo_funcional"
+    ],
+    "cargosfirmadig": [
+        "id_cargoestatuto"
+    ],
+    "ceop": [
+        "cd_empleador"
+    ],
+    "certificacion": [
+        "cd_empleador",
+        "nu_cuil"
+    ],
+    "codigocargo": [
+        "cd_agrupamiento",
+        "nu_categoria",
+        "cd_agrupamiento",
+        "nu_categoria"
+    ],
+    "colegio_plan": [
+        "cd_empleador",
+        "cd_empleador",
+        "id_plan"
+    ],
+    "comprobantecuatri": [
+        "cd_empleador",
+        "cd_empleador",
+        "cd_mes",
+        "nu_anio",
+        "cd_empleador",
+        "cd_mes",
+        "nu_anio",
+        "tp_dj"
+    ],
+    "comprobantedj": [
+        "dt_alta",
+        "cd_empleador",
+        "cd_empleador",
+        "cd_mes",
+        "nu_anio",
+        "tp_dj",
+        "cd_empleador",
+        "cd_mes",
+        "nu_anio",
+        "cd_mes",
+        "nu_anio"
+    ],
+    "comprobanteplan": [
+        "cd_empleador",
+        "cd_empleador",
+        "cd_plan",
+        "nu_cuota"
+    ],
+    "comprobantetasa": [
+        "cd_empleador"
+    ],
+    "concepto": [
+        "id_cargo"
+    ],
+    "concepto2016": [
+        "id_cargo"
+    ],
+    "concepto2017": [
+        "id_cargo"
+    ],
+    "concepto2018": [
+        "id_cargo"
+    ],
+    "concepto2019": [
+        "id_cargo"
+    ],
+    "concepto2020": [
+        "id_cargo"
+    ],
+    "concepto2021": [
+        "id_cargo"
+    ],
+    "datos_saneamiento": [
+        "nu_cuil_ips",
+        "nu_cuil",
+        "nu_doc"
+    ],
+    "datosbanco": [
+        "id_pago"
+    ],
+    "datoscheque": [
+        "id_pago"
+    ],
+    "datosefectivo": [
+        "id_pago"
+    ],
+    "descuento": [
+        "id_certificacion"
+    ],
+    "deuda_planes": [
+        "cd_empleador",
+        "id_colegio_plan",
+        "id_plan"
+    ],
+    "dipregep20": [
+        "id_ddjjcuatri"
+    ],
+    "djhistorica": [
+        "cd_empleador"
+    ],
+    "doc_pago_mes": [
+        "cd_empleador"
+    ],
+    "empleador": [
+        "ds_nombre"
+    ],
+    "empleadorafiliado": [
+        "cd_empleador",
+        "nu_cuil",
+        "nu_cuil",
+        "cd_empleador"
+    ],
+    "empleadorep": [
+        "cd_distrito",
+        "cd_nivel",
+        "nu_dipregep",
+        "nu_expediente",
+        "nu_prov_ips"
+    ],
+    "familiar": [
+        "ds_apellido",
+        "nu_doc"
+    ],
+    "foja": [
+        "cd_empleador",
+        "cd_empleador",
+        "nu_cuil",
+        "dt_ingreso",
+        "nu_cuil",
+        "nu_cuil",
+        "cd_empleador",
+        "id_certificacion"
+    ],
+    "funcion": [
+        "cd_funcion_padre"
+    ],
+    "licencia": [
+        "id_certificacion"
+    ],
+    "liquidacion2016": [
+        "id_cargo",
+        "nu_liquidacion",
+        "dt_desde_liq"
+    ],
+    "oldep": [
+        "cd_distrito",
+        "cd_distrito",
+        "cd_nivel",
+        "cd_nivel",
+        "nu_dipregep",
+        "nu_expediente",
+        "nu_prov_ips",
+        "nu_resolucion"
+    ],
+    "pagocuota": [
+        "dt_acreditacion",
+        "id_cuota_plan"
+    ],
+    "pagodj": [
+        "dt_acreditacion",
+        "id_dj",
+        "dt_pago"
+    ],
+    "pagohistorico": [
+        "id_dj_his",
+        "id_dj_his"
+    ],
+    "periodo": [
+        "id_certificacion"
+    ],
+    "remconaporte": [
+        "id_certificacion"
+    ],
+    "servicio": [
+        "id_certificacion"
+    ],
+    "tramiteprevis": [
+        "cd_empleador",
+        "nu_cuil",
+        "cd_estado",
+        "nu_bui",
+        "nu_solicitud",
+        "nu_expediente"
+    ],
+    "usuario": [
+        "cd_perfil",
+        "ds_apellido",
+        "ds_nombre"
+    ],
+    "vencoblignormal": [
+        "cd_mes",
+        "nu_anio"
+    ]
+}
